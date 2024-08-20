@@ -76,3 +76,7 @@ footer nav ul li {
 footer nav ul li a span  {
 color: #21243d;
 }
+/*Formatação de conteúdo*/
+section.banner{
+    display: flex;
+}
